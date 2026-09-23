@@ -1,0 +1,9 @@
+output/*
+!output/.gitkeep
+.Rhistory
+.RData
+.Rproj.user/
+renv/library/
+__pycache__/
+*.py[cod]
+.venv/

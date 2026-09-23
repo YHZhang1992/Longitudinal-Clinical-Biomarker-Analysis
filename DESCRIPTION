@@ -1,0 +1,10 @@
+Package: longitudinalClinicalBiomarkerAnalysis
+Title: Longitudinal Clinical Biomarker Analysis
+Version: 0.1.0
+Authors@R: person("Yu-Hang", "Zhang", role = c("aut", "cre"), email = "ZHANGYH825@GMAIL.COM")
+Description: Configurable MMRM and binomial GLMM reference workflows for longitudinal biomarker analyses with explicit QC and reporting tiers.
+License: Proprietary
+Encoding: UTF-8
+Imports:
+    lme4,
+    nlme
